@@ -1,0 +1,29 @@
+{
+  "name": "week-18-scrape",
+  "version": "1.0.0",
+  "description": "uses mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelheimer/week-18-scrape.git"
+  },
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelheimer/week-18-scrape/issues"
+  },
+  "homepage": "https://github.com/michaelheimer/week-18-scrape#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.7",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.7.1",
+    "request": "^2.79.0"
+  }
+}

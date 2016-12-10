@@ -1,0 +1,55 @@
+body
+{
+	background-color: blue;
+}
+h1
+{
+	text-align: center;
+}
+h2
+{
+	text-align: center;
+}
+.label 
+{
+  font-weight: bold;
+}
+button
+{
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.search_div
+{
+	width: 80%;
+	background-color: red;
+	margin-left: 10%;
+	padding: 2%;
+}
+
+
+ /*<!-- <div class"search_results">
+  {{#each result}}
+   <li>
+    {{this.search_results}}
+   </li>
+
+</div>
+
+<div class"saved_results">
+  {{#each result}}
+   <li>
+      {{this.saved_results_results}}
+   </li>
+</div> -->*/
